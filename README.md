@@ -1,13 +1,9 @@
-# Instructions
+# Objective:
 
-#### Data Modeling
+Performa a research project on employees of the corporation from the 1980s and 1990s. The only data available for the time period are the six csv files. 
+Design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data, in other words perform data modeling. Inspect the CSVs abd sketch out an ERD of the tables. We will se the available information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
-
-#### Data Engineering
-
-* Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
-
+## Tasks to complete. 
 * Import each CSV file into the corresponding SQL table. **Note** be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
 
 #### Data Analysis
@@ -30,10 +26,3 @@ Once you have a complete database, do the following:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-## Bonus 
-
-1. Import the SQL database into Pandas. 
-  
-2. Create a histogram to visualize the most common salary ranges for employees.
-
-3. Create a bar chart of average salary by title.
