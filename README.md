@@ -1,6 +1,6 @@
 # Objective:
 
-Performa a research project on employees of the corporation from the 1980s and 1990s. The only data available for the time period are the six csv files. 
+Perform a research project on employees of the corporation from the 1980s and 1990s. The only data available for the time period are the six csv files. 
 Design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data, in other words perform data modeling. Inspect the CSVs abd sketch out an ERD of the tables. We will se the available information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
 ## Tasks to complete. 
